@@ -10,8 +10,29 @@ header{
     align-items: center;
     justify-content: center;
     height: 200px;
-    background-color: aqua;
+    background-color: orange;
 }
 .header-ceep{
-    height: 150px;
+    height: 130px;
+}
+
+footer{
+    height: 200px;
+    background-color: rgb(46, 111, 231);
+}
+.conteiner-footer-itens{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.social{
+    display: flex;
+    flex-wrap: nowrap;
+    list-style-type: none;
+}
+.social ul li{
+    display: inline;
+    margin-left: 25px;
+    margin-right: 5px;
 }
