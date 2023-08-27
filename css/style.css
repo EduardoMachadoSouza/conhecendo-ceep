@@ -4,3 +4,14 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+header{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background-color: aqua;
+}
+.header-ceep{
+    height: 150px;
+}

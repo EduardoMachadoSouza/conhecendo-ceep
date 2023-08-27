@@ -8,5 +8,6 @@
 </head>
 <body>
     <header>
-        <h1>bruh¹</h1>
+            <h1>Conhecendo o </h1>
+            <img class="header-ceep" src="img/Ceeppg.png" alt="logo do colégio CEEPPG">
     </header>
