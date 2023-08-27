@@ -4,7 +4,7 @@
                 <section class="social">
                     <ul>
                         <li><a href="https://www.instagram.com/_ceeppg/"><img src="img/ri_instagram-fill.svg" alt="logo Instragram"></a></li>
-                        <li><a href="https://www.facebook.com"><img src="img/ic_baseline-facebook.svg" alt="logo Facebook"></a></li>
+                        <li><a href="https://www.facebook.com/ceeppontagrossa"><img src="img/ic_baseline-facebook.svg" alt="logo Facebook"></a></li>
                     </ul>
                 </section>
             </div>
