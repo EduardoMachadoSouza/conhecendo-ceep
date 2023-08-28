@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -5,15 +6,22 @@
     text-decoration: none;
 }
 header{
+    
     display: flex;
     flex-wrap: nowrap;
     align-items: center;
     justify-content: center;
-    height: 200px;
-    background-color: orange;
+    height: 100px;
+
+    background-color: rgba(255, 255, 255, .20);
+
+    border: 1px solid   rgba(255, 255, 255, 0.25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+     color: white;
+    font-family: 'Tilt Prism', cursive;
 }
-.header-ceep{
-    height: 130px;
+.header-logo-ceep{
+    height: 50%;
 }
 
 footer{
@@ -35,4 +43,9 @@ footer{
     display: inline;
     margin-left: 25px;
     margin-right: 5px;
+}
+
+body {
+    font-family: 'Tilt Prism', cursive;
+    background-color: aqua;
 }
