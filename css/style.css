@@ -1,21 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
+
+}
+
+.painel-vidro {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 500px;
+    background-color: rgba(255, 0, 0, 0.2);
+
+    border: 3px solid   rgba(255, 0, 0, 0.25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
 }
 header{
     display: flex;
     flex-wrap: nowrap;
     align-items: center;
     justify-content: center;
-    height: 200px;
-    background-color: orange;
+    height: 100px;
+    background-color:#EF952B;
+    color: whitesmoke;
+    font-family: 'Tilt Prism', cursive;
 }
-.header-ceep{
-    height: 130px;
+.header-logo-ceep{
+   
+    height: 50%;
+}
+body {
+
+    background-color: whitesmoke;
 }
 
+h4{
+    text-decoration:none;
+    padding-left: 30%;
+    max-width: 70%;
+}
+
+h2 {
+    padding-left: 30%;
+}
+
+.imagem-doc{
+    height: 50%;
+
+}
 footer{
     height: 200px;
     background-color: rgb(46, 111, 231);
@@ -35,4 +71,15 @@ footer{
     display: inline;
     margin-left: 25px;
     margin-right: 5px;
+}
+
+.docCeep {
+    display:flex;
+    flex-wrap: nowrap;
+    list-style-type: none ;
+}
+
+.docCeep ul li {
+    display: inline;
+    height: 50%;
 }

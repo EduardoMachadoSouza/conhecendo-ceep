@@ -6,8 +6,9 @@
     <title>Conhecendo o CEEPPG</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body>dasdasdasd
+<body>
     <header>
-            <h1>Conhecendo o </h1>
-            <img class="header-ceep" src="img/Ceeppg.png" alt="logo do colégio CEEPPG">
+            <div class="painel-vidro">
+                <h1>Conhecendo o </h1> <img class="header-logo-ceep" src="img/Ceeppg.png" alt="logo do colégio CEEPPG">
+            </div>
     </header>
