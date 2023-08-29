@@ -4,7 +4,6 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-
 }
 
 .painel-vidro {
@@ -73,15 +72,23 @@ footer{
     margin-right: 5px;
 }
 
-.docCeep {
-    display:flex;
+.docCeep-texto{
+    display: flex;
+    align-items: center;
+}
+.docCeep ul{
+    display: flex;
+    list-style-type: none;
+}
+.docCeep img{
+    width: 80%;
+    margin-bottom: 12px;
+}
+.docCeep li a{
+    display: flex;
     align-items: center;
     justify-content: center;
-    flex-wrap: nowrap;
-    list-style-type: none ;
+    text-decoration: none;
 }
-
-.docCeep ul li {
-    display: inline;
-    height: 50%;
-}
+  
+  
