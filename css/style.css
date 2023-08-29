@@ -75,6 +75,8 @@ footer{
 
 .docCeep {
     display:flex;
+    align-items: center;
+    justify-content: center;
     flex-wrap: nowrap;
     list-style-type: none ;
 }
