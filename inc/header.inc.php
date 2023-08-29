@@ -8,6 +8,7 @@
 </head>
 <body>
     <header>
-            <h1>Conhecendo o </h1>
-            <img class="header-logo-ceep" src="img/Ceeppg.png" alt="logo do colégio CEEPPG">
+            <div class="painel-vidro">
+                <h1>Conhecendo o </h1> <img class="header-logo-ceep" src="img/Ceeppg.png" alt="logo do colégio CEEPPG">
+            </div>
     </header>
