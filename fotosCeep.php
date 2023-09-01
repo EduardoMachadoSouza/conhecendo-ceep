@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FotosCeep</title>
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <header>
@@ -18,22 +18,22 @@
     <a href="../ceep/dentro.php"> 
         <h3 class="espaço">Dentro do colégio </h3>
 <br>
-        <img class="tamanho" src="../img/dentro-colégio.JPG" alt=""> 
+        <img class="tamanho" src="img/dentro-colégio.JPG" alt=""> 
     </a> 
 
     <h3 class="espaço">auditório</h3>
     <br>
-    <a href="../ceep/auditorio.php"> <img class="tamanho"src="../img/Auditorio.jpg" alt=""> </a>
+    <a href="../ceep/auditorio.php"> <img class="tamanho"src="img/Auditorio.jpg" alt=""> </a>
     <br>
 
     <h3 class="espaço">entorno do colégio</h3>
     <br>
-    <a href="../ceep/entorno.php"> <img class="tamanho"src="../img/entorno-do-colégio.JPG" alt=""> </a>
+    <a href="../ceep/entorno.php"> <img class="tamanho"src="img/entorno-do-colégio.JPG" alt=""> </a>
     <br>
 
     <h3 class="espaço">Quiosque do colégio</h3>
     <br>
-    <a href="../ceep/quiosque.php"><img class="tamanho"src="../img/Quiosque_colegio.JPG" alt=""></a>
+    <a href="../ceep/quiosque.php"><img class="tamanho"src="img/Quiosque_colegio.JPG" alt=""></a>
     <br>
 
     <a href="../ceep/colonia.php"> <h3 class="espaço">Colônia Dona Luiza</h3> </a>

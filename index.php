@@ -23,12 +23,12 @@
     <ul>
         <li>
             <div class="img-container">
-                <a href="#"><img src="img/doc_img.webp" alt=""></a>
+                <a href="../padre/intrevista.php"> <img src="img/doc_img.webp" alt=""></a>
             </div>
         </li>
         <li>
             <div class="img-container">
-                <a href="#"><img src="img/ceep_img.webp" alt=""></a>
+                <a href="fotosCeep.php"> <img src="img/ceep_img.webp" alt=""></a>
             </div>
         </li>
     </ul>
