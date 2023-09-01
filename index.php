@@ -12,13 +12,28 @@
   <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro praesentium magni, exercitationem dolorem ea placeat ratione, nemo aut ipsam repellendus inventore eos, sint dolores qui fugiat eaque. Impedit, maiores aperiam!</h4>
   <br>
 
-    <div class="docCeep"> 
-        <ul>
-            <li>doc <a href="padre/intrevista.php" > <img class="img-docCeep" src="img/doc_img.webp" alt=""> </a></li>
-            
-            <li> fotos Ceep <a href="inc/fotosCeep.php"> <img class="img-docCeep" src="img/ceep_img.webp" alt=""></a></li>
-        </ul>
+
+
+<div class="docCeep">
+    <div class="docCeep-texto">
+        <h2>doc</h2>
+        <h2>fotos Ceep</h2>
+
     </div>
+    <ul>
+        <li>
+            <div class="img-container">
+                <a href="#"><img src="img/doc_img.webp" alt=""></a>
+            </div>
+        </li>
+        <li>
+            <div class="img-container">
+                <a href="#"><img src="img/ceep_img.webp" alt=""></a>
+            </div>
+        </li>
+    </ul>
+</div>
+
    
 <?php include 'inc/footer.inc.php';?>
     

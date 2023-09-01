@@ -4,7 +4,6 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-
 }
 
 .painel-vidro {
@@ -73,6 +72,7 @@ footer{
     margin-right: 5px;
 }
 
+<<<<<<< HEAD
 .docCeep {
     display: flex;
     flex-wrap: nowrap;
@@ -133,3 +133,25 @@ a {
     border: 3px solid   rgba(21, 255, 0, 0.25);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
 }
+
+.docCeep-texto{
+    display: flex;
+    align-items: center;
+}
+.docCeep ul{
+    display: flex;
+    list-style-type: none;
+}
+.docCeep img{
+    width: 80%;
+    margin-bottom: 12px;
+}
+.docCeep li a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+  
+  
+>>>>>>> c1bdd6e45085f4ac3d43273793f98888d0d03026
