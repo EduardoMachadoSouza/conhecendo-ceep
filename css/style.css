@@ -74,12 +74,62 @@ footer{
 }
 
 .docCeep {
-    display:flex;
+    display: flex;
     flex-wrap: nowrap;
-    list-style-type: none ;
+    list-style-type: none;
 }
 
 .docCeep ul li {
+  
     display: inline;
-    height: 50%;
+    margin-left: 25px;
+    margin-right: 5px;
+  
+ 
+}
+
+.img-docCeep {
+    width: 30%;
+    
+
+}
+
+.espaço {
+
+   text-align: center;
+}
+
+.tamanho {
+    width: 80%;
+    padding-left: 30%;
+
+}
+a {
+   color: black;
+}
+
+
+.padre {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    background-color:#009e22;
+    color: whitesmoke;
+    font-family: 'Tilt Prism', cursive;
+
+}
+
+.painel-vidro2 {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 500px;
+    background-color: rgba(21, 255, 0, 0.25);
+
+    border: 3px solid   rgba(21, 255, 0, 0.25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
 }
