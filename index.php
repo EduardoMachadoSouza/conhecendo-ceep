@@ -9,7 +9,20 @@
 <br>
     <h2>O que é o Ceeppg?</h2>
     <br>
-  <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro praesentium magni, exercitationem dolorem ea placeat ratione, nemo aut ipsam repellendus inventore eos, sint dolores qui fugiat eaque. Impedit, maiores aperiam!</h4>
+  <h4>O Colégio estadual de ensino profissional de Ponta Grossa é composto por ensinos integrado e subsequente. Qual a diferença?
+<br>
+<br>
+<span class= "b">Integrado: </span> O estudante que está matriculado em um curso realiza o ensino médio e o curso técnico juntos com uma duração máxima de 3 anos, ou seja, de forma integrada. No caso, ele terá uma matrícula para as duas formações, que acontece na mesma instituição de ensino.
+<br>
+<br>
+<span class="b"> Subsequente: </span>O curso técnico subsequente, por exemplo, só pode ser feito por quem já concluiu o Ensino Médio, e tem uma duração máxima de 2 anos.
+<br>
+<br>
+Abaixo listaremos os cursos disponíveis em nosso colégio e a funcionalidade deles, com opiniões de alunos.
+<br>
+<br>
+<a href="cursos.php">cursos </a>
+</h4>
   <br>
 
 

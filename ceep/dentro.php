@@ -20,12 +20,12 @@
     <br>
     <br>
 
-<h1>1° andar</h1>
+<h1 class="espaço2">1° andar</h1>
 
-
-<h1>2° andar</h1>
-<h1>3° andar</h1>
-<h1>4° andar</h1>
+<h4>No primeiro andar do Ceep nos temos </h4>
+<h1 class="espaço2">2° andar</h1>
+<h1 class="espaço2">3° andar</h1>
+<h1 class="espaço2">4° andar</h1>
 <footer>
         <div class="conteiner-footer-bloco"></div>
             <div class="conteiner-footer-itens">

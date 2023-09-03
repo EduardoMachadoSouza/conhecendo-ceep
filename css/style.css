@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+@font-face {
+    font-family:'pixo';
+    src: url(../PixoReto-Regular.ttf);
+}
 *{
     margin: 0;
     padding: 0;
@@ -42,12 +48,14 @@ body {
 }
 
 h4{
-    text-decoration:none;
+
+    font-family: 'Open Sans', sans-serif;
     padding-left: 30%;
     max-width: 70%;
 }
 
 h2 {
+    font-family: 'Open Sans', sans-serif;
     padding-left: 30%;
 }
 
@@ -98,9 +106,19 @@ footer{
 
 }
 
-.espaço {
+.alunos {
+    color: whitesmoke;
+    margin-left: 30%;
+    background-color:#EF952B;
+    font-family:'pixo';
+}
 
-   text-align: center;
+.espaço2 {
+    padding-left: 30%;
+}
+.espaço3 {
+    padding-left: 30%;
+    max-width: 80%;
 }
 
 .tamanho {
@@ -156,5 +174,4 @@ a {
     justify-content: center;
     text-decoration: none;
 }
-  
   
