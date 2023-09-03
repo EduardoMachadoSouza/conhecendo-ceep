@@ -12,3 +12,8 @@
                 <h1>Conhecendo o </h1> <img class="header-logo-ceep" src="img/Ceeppg.png" alt="logo do colégio CEEPPG">
             </div>
     </header>
+    <br>
+<br>
+<br>
+<br>
+<br>    
