@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+@font-face {
+    font-family:'pixo';
+    src: url(../PixoReto-Regular.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+.painel-vidro {
+    position: fixed;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 15%;
+    width: 500px;
+    background-color: rgba(255, 0, 0, 0.2);
+    border: 3px solid   rgba(255, 0, 0, 0.25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+}
+
+header{
+    position: fixed;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 16%;
+    width: 100%;
+    background-color:#EF952B;
+    color: rgb(255, 255, 255);
+    font-family: 'Tilt Prism', cursive;
+}
+
+
+.alunos {
+    font-size:larger;
+    color: whitesmoke;
+    background-color:#EF952B;
+    
+    font-family:'pixo';
+}
+
+.alunos2 {
+    color: #2f19fa;
+}
+.espaço{
+   
+    padding-left: 30%;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
+h2 {
+    padding-left: 30%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+    font-weight: normal;
+    padding-left: 30%;
+    max-width: 80%;
+    font-family: 'Open Sans', sans-serif;
+}
+h4 {
+    font-weight: normal;
+    padding-left: 30%;
+    max-width: 80%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.aviso {
+    color: red;
+    background-color: black;
+    margin-left: 30%;
+    margin-right: 20%;
+    border: 3px solid   rgba(255, 0, 0, 0.25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+
+}
+
+footer{
+    height: 200px;
+    background-color: rgb(46, 111, 231);
+}
+.conteiner-footer-itens{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.social{
+    display: flex;
+    flex-wrap: nowrap;
+    list-style-type: none;
+}
+.social ul li{
+    display: inline;
+    margin-left: 25px;
+    margin-right: 5px;
+}
+
+.agradecimento {
+    margin-right: 35%;
+    margin-left: 10%;
+    padding-bottom: 1.1%;
+}
+

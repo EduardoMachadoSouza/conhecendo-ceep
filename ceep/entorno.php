@@ -31,6 +31,19 @@ aaaaaaaaaaaaaaaaaaa
             </div>
             <hr>
             <h5>&copy; Todos os direitos reservados.</h5>
+            <br>
+            <br>
+
+           <div class="agradecimento"><h5 >Agradecimentos</h5>
+<br>
+           <h6>Ao padre Bruno, pela disposição e  paciência com nosso projeto.
+Aos professores Adenilson e Cláudio pela preocupação, interesse e principalmente carinho não só pelo projeto, mas por seus alunos.
+Ao Pascoal, pelo trabalho incrível com o drone, que contribuiu imensamente para o nosso projeto e pela paciência com a situação relacionada à coordenação.
+Ao Colégio Colônia Dona Luiza, pela gentileza de nos receber para fotografar o prédio, e a secretária por disponibilizar um pouco do seu tempo para nos acompanhar.
+Aos alunos entrevistados, pela colaboração.
+Agradecemos aos alunos envolvidos com o projeto, por dedicar seu tempo e bem estar, pois nem tudo foi fácil. Mas no fim conseguimos.
+</div>
+</h6>
     </footer>
     </body>
 </html>
