@@ -21,13 +21,12 @@
     height: 15%;
     width: 500px;
     background-color: rgba(255, 0, 0, 0.2);
-
     border: 3px solid   rgba(255, 0, 0, 0.25);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+    
 }
 header{
     position: fixed;
-
     display: flex;
     flex-wrap: nowrap;
     align-items: center;
@@ -108,11 +107,13 @@ footer{
 
 .alunos {
     color: whitesmoke;
-    margin-left: 30%;
     background-color:#EF952B;
     font-family:'pixo';
 }
 
+.espaço1 {
+    margin-left: 50%;
+}
 .espaço2 {
     padding-left: 30%;
 }
@@ -122,8 +123,8 @@ footer{
 }
 
 .tamanho {
-    width: 80%;
-    padding-left: 30%;
+    width: 50%;
+    margin-left: 30%;
 
 }
 a {
@@ -175,3 +176,10 @@ a {
     text-decoration: none;
 }
   
+.agradecimento {
+    margin-right: 35%;
+    margin-left: 10%;
+
+}
+
+
