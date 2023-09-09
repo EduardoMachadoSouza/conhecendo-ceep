@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ceep</title>
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/fotos-style.css">
 </head>
 <body>
 <header>
@@ -20,13 +20,8 @@
     <br>
     <br>
 
-<h1 class="espaço2">1° andar</h1>
 
-<h4>No primeiro andar do Ceep nos temos </h4>
-<h1 class="espaço2">2° andar</h1>
-<h1 class="espaço2">3° andar</h1>
-<h1 class="espaço2">4° andar</h1>
-<footer>
+    <footer>
         <div class="conteiner-footer-bloco"></div>
             <div class="conteiner-footer-itens">
                 <section class="social">

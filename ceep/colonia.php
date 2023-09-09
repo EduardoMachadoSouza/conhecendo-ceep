@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Côlonia-dona-luiza</title>
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/fotos-style.css">
 </head>
 <body>
 <header>
             <div class="painel-vidro">
-                <h1>Conhecendo o </h1> 
+                <h1>Conhecendo o Colonia </h1> 
             </div>
     </header>
     <br>
@@ -18,7 +18,8 @@
     <br>
     <br>
     <br>
-    aaaaaaaaaaaaaaaaaaa
+    <h2>O nosso grupo foi até o Colônia onde fomos MUITO bem recebidos e tiramos algumas fotos de vitrais, pinturas e partes interessantes do colégio <a href="https://www.escol.as/229687-colegio-estadual-colonia-dona-luiza"> colonia dona luíza</a> </h2>
+    <img src="" alt="">
     <footer>
         <div class="conteiner-footer-bloco"></div>
             <div class="conteiner-footer-itens">

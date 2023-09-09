@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+
+    background-color: rgb(255, 240, 221);
+}
+
+.painel-vidro {
+    position: fixed;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 15%;
+    width: 500px;
+    background-color: rgba(255, 0, 0, 0.2);
+    border: 3px solid   rgba(255, 0, 0, 0.25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+    
+}
+header{
+    position: fixed;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 16%;
+    width: 100%;
+    background-color:#EF952B;
+    color: whitesmoke;
+    font-family: 'Tilt Prism', cursive;
+}
+ 
+.img {
+    width: 40%;
+    margin-left: 30%;
+}
+
+footer{
+    height: 200px;
+    background-color: rgb(46, 111, 231);
+}
+.conteiner-footer-itens{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.social{
+    display: flex;
+    flex-wrap: nowrap;
+    list-style-type: none;
+}
+.social ul li{
+    display: inline;
+    margin-left: 25px;
+    margin-right: 5px;
+}
+
+
+.docCeep {
+    display: flex;
+    flex-wrap: nowrap;
+    list-style-type: none;
+}
+
+.docCeep ul li {
+  
+    display: inline;
+    margin-left: 25px;
+    margin-right: 5px;
+  
+ 
+}
+
+h2 {
+    margin-left: 30%;
+    margin-right: 20%;
+}
+
+h3 {
+    margin-left: 30%;
+    margin-right: 20%;
+}
+
+h4 {
+    margin-left: 30%;
+    margin-right: 20%;
+}
+
+.h5 {
+    margin-left: 20%;
+    margin-right: 20%;
+}
