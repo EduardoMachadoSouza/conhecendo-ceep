@@ -4,45 +4,46 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>auditorio</title>
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/fotos-style.css">
 </head>
 <body>
 <header>
             <div class="painel-vidro">
-                <h1>Conhecendo o </h1> 
+                <h1>Conhecendo o auditorio  </h1> 
             </div>
     </header>
+<br>
+<br>
+<br>
+<br>    
+<br>
+<br>
+<br>
+<br>  
+    <h3>Como praticamente todos conhecemos o auditorio tirando o palco e mais alguns lugares, nos resolvemos somente fotografar do palco pra frente.</h3>
+    <br>
+    <h2>Palco do auditorio</h2>
     <br>
     <br>
+    <h3>Aqui temos duas fotos de um piano que fica no palco do auditorio.</h3>
     <br>
     <br>
+<img class="img" src="../img/piano.jpg" alt="Foto de um piano de frente">
     <br>
     <br>
-    <h2></h2>
+<img class="img" src="../img/Piano-bala.JPG" alt=" Foto de um piano na diagonal">
+<h3> Atrás do palco temos mesas e mais mesas amontoadas</h3>
     <br>
     <br>
-<img src="" alt="">
-<h2></h2>
+<img class="img" src="../img/Muita_mesa.JPG" alt="">
+<h3>Logo à baixo do palco nos temos mais um lugar com mesas e mais algumas coisas jogadas.</h3>
     <br>
     <br>
-<img src="" alt="">
-<h2></h2>
+<img class="img" src="../img/Porão-auditorio.JPG" alt="">
     <br>
     <br>
-<img src="" alt="">
-<h2></h2>
-    <br>
-    <br>
-<img src="" alt="">
-<h2></h2>
-    <br>
-    <br>
-<img src="" alt="">
-<h2></h2>
-    <br>
-    <br>
-<img src="" alt="">
-<h2></h2>
+<img class="img" src="../img/porão-.JPG" alt="">
+
     <br>
     <br>
 

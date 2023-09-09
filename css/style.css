@@ -41,9 +41,10 @@ header{
    
     height: 50%;
 }
+
 body {
 
-    background-color: whitesmoke;
+    background-color: rgb(255, 240, 221);
 }
 
 h4{
@@ -99,11 +100,7 @@ footer{
  
 }
 
-.img-docCeep {
-    width: 30%;
-    
 
-}
 
 .alunos {
     color: whitesmoke;

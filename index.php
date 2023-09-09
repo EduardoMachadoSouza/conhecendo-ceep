@@ -41,7 +41,7 @@ Abaixo listaremos os cursos disponíveis em nosso colégio e a funcionalidade de
         </li>
         <li>
             <div class="img-container">
-                <a href="fotosCeep.php"> <img src="img/ceep_img.webp" alt=""></a>
+                <a href="fotosCeep.php"> <img class="Dronezada"src="img/ImagemCeeppg.jpg" alt=""></a>
             </div>
         </li>
     </ul>
