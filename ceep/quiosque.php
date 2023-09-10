@@ -9,7 +9,7 @@
 <body>
 <header>
             <div class="painel-vidro">
-                <h1>Conhecendo o </h1> 
+                <h1>Conhecendo o Quiosque</h1> 
             </div>
     </header>
     <br>
@@ -18,7 +18,10 @@
     <br>
     <br>
     <br>
-aaaaaaaaaaaaaaaaaaa
+
+    <h2>De longe uma das partes mais interessantes do Ceppgp, já que quase ninguém vvai até lá </h2>
+
+        
 <footer>
         <div class="conteiner-footer-bloco"></div>
             <div class="conteiner-footer-itens">

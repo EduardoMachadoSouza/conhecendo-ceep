@@ -10,6 +10,7 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
+
 }
 
 .painel-vidro {
@@ -23,6 +24,7 @@
     background-color: rgba(255, 0, 0, 0.2);
     border: 3px solid   rgba(255, 0, 0, 0.25);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+
     
 }
 header{
@@ -36,6 +38,7 @@ header{
     background-color:#EF952B;
     color: whitesmoke;
     font-family: 'Tilt Prism', cursive;
+
 }
 .header-logo-ceep{
    
@@ -52,13 +55,17 @@ h4{
     font-family: 'Open Sans', sans-serif;
     padding-left: 30%;
     max-width: 70%;
+    
 }
 
 h2 {
     font-family: 'Open Sans', sans-serif;
     padding-left: 30%;
+    
 }
-
+h1 {
+    font-weight: normal;
+}
 .imagem-doc{
     height: 50%;
 
