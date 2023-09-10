@@ -19,7 +19,37 @@
     <br>
     <br>
     <h2>O nosso grupo foi até o Colônia onde fomos MUITO bem recebidos e tiramos algumas fotos de vitrais, pinturas e partes interessantes do colégio <a href="https://www.escol.as/229687-colegio-estadual-colonia-dona-luiza"> colonia dona luíza</a> </h2>
-    <img src="" alt="">
+
+<br>
+<br>
+    <h2>Algumas frases e desenhos que são vistas pelo colégio </h2>
+    <br>
+    <img class ="img"src="../img/Circulo de circulos.JPG" alt="">
+<br>
+<br>
+    <img class ="img" src="../img/louvado-seja-você.JPG" alt="">
+<br>
+<br>
+<h1>"Louvado sejá você"</h1>
+<br>
+    <img class ="img" src="../img/orar-e-trabalhar.JPG" alt="">
+<br>
+<br>
+<h1>"Orar e trabalhar"</h1>
+
+<br>
+    <img class ="img" src="../img/Mais um vitral.JPG" alt="">
+    <br>
+<br>
+    <img class ="img" src="../img/Vitral.JPG" alt="">
+    <br>
+<br>
+<h2>vitral de Arnaldo Janssen fundador da SVD</h2>
+<br>
+<img class ="img" src="../img/Pintura.JPG" alt="">
+    <br>
+    <h1 >Uma pintura de Jesus Cristo</h1>
+<br>
     <footer>
         <div class="conteiner-footer-bloco"></div>
             <div class="conteiner-footer-itens">

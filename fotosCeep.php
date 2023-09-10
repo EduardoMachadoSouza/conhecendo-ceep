@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FotosCeep</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/foto-escola.css">
 </head>
 <body>
     <header>
@@ -18,30 +18,26 @@
 <br>
 <br>
 <br>
- 
-        <h3 class="espaço1"> <a href="ceep/dentro.php">Dentro do colégio </a></h3> 
+<br>
+ <h2 >  <a class="Ceep" href="ceep/auditorio.php"> auditório  </a></h2>
+    <br>
+    <a href="ceep/auditorio.php"> <img class="img "src="img/Auditorio.jpg" alt=""> </a>
+    <br>
+    <br>
+     <h2 > <a class="Ceep" href="ceep/quiosque.php">Quiosque do colégio </a> </h2> 
+    <br>
+     <a href="ceep/quiosque.php"><img class="img"src="img/Quiosque_colegio.JPG" alt=""></a>
+    <br>
+    <br>
+     
+    <h2> <a class="Ceep" href="ceep/piscina.php">Area da piscina</a></h2> 
 
-        <a href="ceep/dentro.php"> <img class="tamanho" src="img/dentro-colégio.JPG" alt=""> </a> 
+<a href="ceep/piscina.php"> <img class="img" src="img/Psicina.JPG" alt=""> </a> 
 <br>
 <br>
- <h3 class="espaço1">  <a href="ceep/auditorio.php"> auditório  </a></h3>
+    <h2 > <a class="colonia" href="ceep/colonia.php"> Colônia Dona Luiza  </h2> 
     <br>
-    <a href="ceep/auditorio.php"> <img class="tamanho"src="img/Auditorio.jpg" alt=""> </a>
-    <br>
-    <br>
-   <h3 class="espaço1">   <a href="ceep/entorno.php"> entorno do colégio </a></h3> 
-    <br>
-    <a href="ceep/entorno.php"> <img class="tamanho"src="img/entorno-do-colégio.JPG" alt=""> </a>
-    <br>
-    <br>
-     <h3 class="espaço1"> <a href="ceep/quiosque.php">Quiosque do colégio </a> </h3> 
-    <br>
-     <a href="ceep/quiosque.php"><img class="tamanho"src="img/Quiosque_colegio.JPG" alt=""></a>
-    <br>
-    <br>
-    <h3 class="espaço1"> <a href="ceep/colonia.php"> Colônia Dona Luiza  </h3> 
-    <br>
-    <a href="ceep/colonia.php"> <img class="tamanho" src="img/Colonia.jpg" alt=""> </a>
+    <a href="ceep/colonia.php"> <img class="img" src="img/Colonia.jpg" alt=""> </a>
 
     <footer>
         <div class="conteiner-footer-bloco"></div>
