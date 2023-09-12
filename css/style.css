@@ -20,7 +20,7 @@
     align-items: center;
     justify-content: center;
     height: 15%;
-    width: 500px;
+    width: 30%;
     background-color: rgba(255, 0, 0, 0.2);
     border: 3px solid   rgba(255, 0, 0, 0.25);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
@@ -28,6 +28,7 @@
     
 }
 header{
+
     position: fixed;
     display: flex;
     flex-wrap: nowrap;
@@ -38,10 +39,17 @@ header{
     background-color:#EF952B;
     color: whitesmoke;
     font-family: 'Tilt Prism', cursive;
+    text-shadow:  10px 10px 10px 10px rgb(0, 0, 255);
+
+
 
 }
-.header-logo-ceep{
-   
+.text-header {
+    font-weight: bolder;
+    text-shadow: 4px 4px 4px rgb(0, 38, 255);
+}
+ .header-logo-ceep{
+   padding-left: 10px;
     height: 50%;
 }
 
@@ -53,118 +61,98 @@ body {
 h4{
 
     font-family: 'Open Sans', sans-serif;
-    padding-left: 30%;
-    max-width: 70%;
-    
-}
-
-h2 {
-    font-family: 'Open Sans', sans-serif;
-    padding-left: 30%;
+    margin-left: 30%;
+    margin-right: 30%;
     
 }
 h1 {
-    font-weight: normal;
+    text-align: center;
 }
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 30%;
+    
+}
+
+.cursos {
+    color: rgb(44, 25, 1);
+    padding: 5px;
+    background-color: rgba(25, 0, 255, 0.2);
+    border: 3px solid   rgba(25, 0, 255, 0.25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+    text-shadow: 1px 2px 2px  #EF952B;
+}
+
 .imagem-doc{
     height: 50%;
 
 }
 footer{
-    height: 200px;
+    bottom: 0%;
+    height: 10%;
     background-color: rgb(46, 111, 231);
+
 }
 .conteiner-footer-itens{
+    position:relative;
     display: flex;
     align-items: center;
     justify-content: space-between;
     
 }
 .social{
+    position:relative;
     display: flex;
     flex-wrap: nowrap;
     list-style-type: none;
 }
 .social ul li{
+    position:relative;
     display: inline;
     margin-left: 25px;
     margin-right: 5px;
 }
 
-
+.img-container {
+    position: relative;
+    border: 3px solid   rgba(17, 0, 255, 0.616);
+}
 .docCeep {
+    position: relative;
     display: flex;
     flex-wrap: nowrap;
     list-style-type: none;
 }
 
 .docCeep ul li {
-  
+    position:relative;
     display: inline;
     margin-left: 25px;
     margin-right: 5px;
   
  
 }
-
-
-
-.alunos {
-    color: whitesmoke;
-    background-color:#EF952B;
-    font-family:'pixo';
-}
-
-.espaço1 {
-    margin-left: 50%;
-}
-.espaço2 {
-    padding-left: 30%;
-}
-.espaço3 {
-    padding-left: 30%;
-    max-width: 80%;
-}
-
-.tamanho {
-    width: 50%;
-    margin-left: 30%;
-
-}
-a {
-   color: black;
-}
-
-
-.padre {
-    display: flex;
-    flex-wrap: nowrap;
-    align-items: center;
-    justify-content: center;
-    height: 100px;
-    background-color:#009e22;
-    color: whitesmoke;
-    font-family: 'Tilt Prism', cursive;
-
-}
-
-.painel-vidro2 {
-    display: flex;
-    flex-wrap: nowrap;
-    align-items: center;
-    justify-content: center;
-    height: 100px;
-    width: 500px;
-    background-color: rgba(21, 255, 0, 0.25);
-
-    border: 3px solid   rgba(21, 255, 0, 0.25);
-    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
-}
-
 .docCeep-texto{
-    display: flex;
-    align-items: center;
+    color: rgb(6, 0, 56);
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgba(239, 148, 43, .7);
+    border: 3px solid   rgba(239, 148, 43, .8);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .8);
+    position: absolute;
+    top: -9%;
+    left: 15%;
+    transform: translate(0%, -50%);
+    text-shadow: 2px 3px 3px  rgb(25, 0, 255);
+ 
+    
 }
+
+
+
+
+
 .docCeep ul{
     display: flex;
     list-style-type: none;
@@ -187,3 +175,53 @@ a {
 }
 
 
+.alunos {
+    color: whitesmoke;
+    background-color:#EF952B;
+    font-family:'pixo';
+}
+
+.espaço1 {
+    margin-left: 50%;
+}
+.espaço2 {
+    padding-left: 30%;
+}
+.espaço3 {
+    padding-left: 30%;
+    max-width: 80%;
+}
+
+.tamanho {
+    width: 50%;
+    margin-left: 30%;
+    border: 3px solid   rgba(17, 0, 255, 0.616);
+
+}
+a {
+   color: black;
+}
+
+
+.padre {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    background-color:#009e22;
+    color: whitesmoke;
+    font-family: 'Tilt Prism', cursive;
+
+}
+
+.painel-vidro2 {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 30%;
+    background-color: rgba(21, 255, 0, 0.25);
+    border: 3px solid   rgba(21, 255, 0, 0.25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+}
