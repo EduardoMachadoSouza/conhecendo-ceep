@@ -6,10 +6,10 @@
     <title>Dentro do Ceeppg</title>
     <link rel="stylesheet" href="../css/fotos-style.css">
 </head>
-<body>
-<header>
-            <div class="painel-vidro">
-                <h1>Conhecendo o Colonia </h1> 
+<body class="Quarto-andar">
+<header class="Quartoandar">
+            <div class="painel-vidro4">
+                <h1>Conhecendo o 4° andar </h1> 
             </div>
     </header>
     <br>
@@ -18,7 +18,17 @@
     <br>
     <br>
     <br>
-
+    <h2>Praticamente todos conhecemos o nosso colégio, tirando o 4° andar, lá temos a Biblioteca e por fim uma area que quase ninguém conhece.</h2>
+    
+    <img class="img2"src="../img/Janela sinistra.jpg" alt="">
+    <img class="img2"src="../img/entrada sinistra.jpg" alt="">
+    <img class="img2"src="../img/Sus5.jpg" alt="">
+    <img class="img2"src="../img/Sus.jpg" alt="">
+    <img class="img2"src="../img/Sus2,jpg" alt="">
+    <img class="img2"src="../img/Sus3.jpg" alt="">
+    <img class="img2"src="../img/Sus4.jpg" alt="">
+    <img class="img2"src="../img/pixo.jpg" alt="">
+    <img class="img2"src="../img/Suicidio bala.jpg" alt="">
     <footer>
         <div class="conteiner-footer-bloco"></div>
             <div class="conteiner-footer-itens">

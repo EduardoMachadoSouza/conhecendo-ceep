@@ -39,12 +39,69 @@ header{
     text-shadow: 4px 4px 4px rgb(0, 38, 255);
 }
  
+.Colonia {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    background-color:#009e22;
+    color: whitesmoke;
+    font-family: 'Tilt Prism', cursive;
+
+}
+
+.painel-vidro2 {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 30%;
+    background-color: rgba(21, 255, 0, 0.25);
+    border: 3px solid   rgba(21, 255, 0, 0.25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+}
+.Quartoandar {
+    position: fixed;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 16%;
+    width: 100%;
+    background-color:#ff0000;
+    color: rgb(0, 0, 0);
+    font-family: 'Tilt Prism', cursive;
+    text-shadow: 4px 4px 4px rgb(253, 0, 0);
+}
+.painel-vidro4 {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 30%;
+    background-color: rgba(0, 0, 0, 0.25);
+    border: 3px solid   rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+}
+.Quarto-andar {
+    background-color: black;
+    
+}
+.Quarto-andar h2 {
+    color: white;
+}
 .img {
     width: 40%;
     margin-left: 30%;
     border: 3px solid   rgba(17, 0, 255, 0.616);
 }
-
+.img2 {
+    width: 40%;
+    margin-left: 30%;
+    border: 3px solid   rgba(255, 0, 0, 0.616);
+}
 footer{
     height: 200px;
     background-color: rgb(46, 111, 231);

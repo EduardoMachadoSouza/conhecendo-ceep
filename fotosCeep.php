@@ -19,6 +19,7 @@
 <br>
 <br>
 <br>
+
  <h2 >  <a class="Ceep" href="ceep/auditorio.php"> auditório  </a></h2>
     <br>
     <a href="ceep/auditorio.php"> <img class="img "src="img/Auditorio.jpg" alt=""> </a>
@@ -38,6 +39,11 @@
     <h2 > <a class="colonia" href="ceep/colonia.php"> Colônia Dona Luiza  </h2> 
     <br>
     <a href="ceep/colonia.php"> <img class="img" src="img/Colonia.jpg" alt=""> </a>
+    <br>
+    <br>
+    <h2 >  <a class="Ceep" href="ceep/Dentro.php"> Quarto andar </a></h2>
+    <br>
+    <a href="ceep/Dentro.php"> <img class="img "src="img/Escada sinistra.jpg" alt=""> </a>
     <br>
     <br>
     <h2 > <a class="outtakes" href="ceep/colonia.php"> outtakes </h2> 
