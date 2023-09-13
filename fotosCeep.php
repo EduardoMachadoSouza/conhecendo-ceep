@@ -38,6 +38,13 @@
     <h2 > <a class="colonia" href="ceep/colonia.php"> Colônia Dona Luiza  </h2> 
     <br>
     <a href="ceep/colonia.php"> <img class="img" src="img/Colonia.jpg" alt=""> </a>
+    <br>
+    <br>
+    <h2 > <a class="outtakes" href="ceep/colonia.php"> outtakes </h2> 
+    <br>
+    <a href="ceep/outtakes.php"> <img class="img" src="img/Colonia.jpg" alt=""> </a>
+    <br>
+    <br>
 
     <footer>
         <div class="conteiner-footer-bloco"></div>

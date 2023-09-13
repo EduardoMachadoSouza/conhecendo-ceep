@@ -82,7 +82,9 @@ footer{
  
 }
 
-
+h1 {
+    text-align: center;
+}
 h2 {
     margin-left: 30%;
     margin-right: 20%;
