@@ -9,7 +9,7 @@
 <body>
     <header>
             <div class="painel-vidro">
-                <h1>Conhecendo o </h1> <img class="header-logo-ceep" src="img/Ceeppg.png" alt="logo do colégio CEEPPG">
+                <h1 class="text-header">Conhecendo o </h1> <img class="header-logo-ceep" src="img/Ceeppg.png" alt="logo do colégio CEEPPG">
             </div>
     </header>
     <br>
@@ -17,3 +17,4 @@
 <br>
 <br>
 <br>    
+<br>

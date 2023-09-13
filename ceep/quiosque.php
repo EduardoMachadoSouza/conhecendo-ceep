@@ -19,7 +19,31 @@
     <br>
     <br>
 
-    <h2>De longe uma das partes mais interessantes do Ceppgp, já que quase ninguém vvai até lá </h2>
+    <h2>De longe uma das partes mais interessantes do Ceppgp, já que quase nada foi tirado e(ou) modificado.</h2>
+    <br>
+    <h3>Aqui temos algumas fotos de santos de marmore quebrados, tumulos antigos entre outras coisas, como por exemplo uma churrasqueira velha.</h3>
+    <img class="img" src="../img/1.jpg" alt="">
+    <br>
+    <br>
+    <img class="img" src="../img/2.jpg" alt="">
+    <br>
+    <br>
+    <img class="img" src="../img/3.jpg" alt="">
+    <br>
+    <br>
+    <img class="img" src="../img/4.jpg" alt="">
+    <br>
+    <br>
+    <img class="img" src="../img/5.jpg" alt="">
+    <br>
+    <br>
+    <img class="img" src="../img/6.jpg" alt="">
+    <br>
+    <br>
+    <img class="img" src="../img/Churras.jpg" alt="">
+    <br>
+    <br>
+
 
         
 <footer>

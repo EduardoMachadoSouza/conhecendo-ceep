@@ -21,30 +21,39 @@
 Abaixo listaremos os cursos disponíveis em nosso colégio e a funcionalidade deles, com opiniões de alunos.
 <br>
 <br>
-<a href="cursos.php">cursos </a>
+<a href="cursos.php"> <h1><span class="cursos">cursos</span></h1> </a>
 </h4>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
   <br>
 
 
 
 <div class="docCeep">
-    <div class="docCeep-texto">
-        <h2>doc</h2>
-        <h2>fotos Ceep</h2>
 
-    </div>
+ 
     <ul>
         <li>
-            <div class="img-container">
-                <a href="padre/intrevista.php"> <img src="img/doc_img.webp" alt=""></a>
+            <div>
+            <h2 class="docCeep-texto">doc</h2>
+                <a href="padre/entrevista.php"> <img class="img-container" src="img/doc_img.webp" alt=""></a>
+                
             </div>
         </li>
         <li>
-            <div class="img-container">
-                <a href="fotosCeep.php"> <img class="Dronezada"src="img/ImagemCeeppg.jpg" alt=""></a>
-            </div>
+            <div>
+            <h2 class="docCeep-texto">ceep</h2>  
+                <a href="fotosCeep.php"> <img class="img-container"src="img/ceep_img.webp" alt=""></a>
+                 
+                </div>
         </li>
+     
     </ul>
+
 </div>
 
    
