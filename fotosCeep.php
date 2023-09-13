@@ -19,6 +19,7 @@
 <br>
 <br>
 <br>
+
  <h2 >  <a class="Ceep" href="ceep/auditorio.php"> auditório  </a></h2>
     <br>
     <a href="ceep/auditorio.php"> <img class="img "src="img/Auditorio.jpg" alt=""> </a>
@@ -38,7 +39,19 @@
     <h2 > <a class="colonia" href="ceep/colonia.php"> Colônia Dona Luiza  </h2> 
     <br>
     <a href="ceep/colonia.php"> <img class="img" src="img/Colonia.jpg" alt=""> </a>
-
+    <br>
+    <br>
+    <h2 >  <a class="Ceep" href="ceep/Dentro.php"> Quarto andar </a></h2>
+    <br>
+    <a href="ceep/Dentro.php"> <img class="img "src="img/Escada sinistra.jpg" alt=""> </a>
+    <br>
+    <br>
+    <h2 > <a class="outtakes" href="ceep/colonia.php"> outtakes </h2> 
+    <br>
+    <a href="ceep/outtakes.php"> <img class="img" src="img/Foda.jpg" alt=""> </a>
+    <br>
+    <br>
+    <h1 class="aviso"> Infelizmente a direção do colegio nos impediu de fotografar o porão do colégio, parte essa que abriga tuneis e algumas outras coisa interessantíssimas e até misteriosas, segundo a Direção o local é insalubre,apresentaram um documento da vigilância sanitaria, que não conseguimos ler com atenção, e pela falta de tempo não conseguimos tentar de forma alguma revogar tal pedido, agradecemos à direção pela cooperação com nosso projeto</h1>
     <footer>
         <div class="conteiner-footer-bloco"></div>
             <div class="conteiner-footer-itens">

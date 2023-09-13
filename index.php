@@ -2,8 +2,7 @@
     <br>
     <h2 >Sobre o projeto</h2>
     <br>
-    <h4>O projeto Conhecendo o Ceeppg, 
-        foi criado com a finalidade de conhecermos a antiga história de nossa escola e saciar perguntas que não poderiam ser respondidas anteriormente. É acompanhado com fotos, documentos sobre o prédio e um documentário contado pelo Padre Bruno que relata como era a vida no internato e o motivo da mudança de internato para Seminário
+    <h4>O projeto "Conhecendo o Ceeppg" foi criado com a intenção de apresentar o prédio que hoje localiza-se a instituição, no passado sendo um seminário e atualmente um colégio técnico, também, com a finalidade de conhecermos a função de cada curso técnico, e a opinião dos alunos sobre a área que estão cursando. Investigamos a história do prédio e fizemos uma entrevista com o padre Bruno, antigo seminarista e posteriormente professor quando a instituição era um internato. Em nosso site adicionamos a entrevista que poderá ser assistida pelo YouTube, acompanhado com fotos, imagens de drone e documentos sobre o prédio
 
     </h4>
 <br>
@@ -39,15 +38,15 @@ Abaixo listaremos os cursos disponíveis em nosso colégio e a funcionalidade de
     <ul>
         <li>
             <div>
-            <h2 class="docCeep-texto">doc</h2>
+            <a href="padre/entrevista.php"><h2 class="docCeep-texto2">DOCUMENTARIO</h2> </a>
                 <a href="padre/entrevista.php"> <img class="img-container" src="img/doc_img.webp" alt=""></a>
                 
             </div>
         </li>
         <li>
             <div>
-            <h2 class="docCeep-texto">ceep</h2>  
-                <a href="fotosCeep.php"> <img class="img-container"src="img/ceep_img.webp" alt=""></a>
+            <a href="fotosCeep.php" > <h2 class="docCeep-texto">CEEP</h2>  </a>
+            <a href="fotosCeep.php"> <img class="img-container" src="img/ceep_img.webp" alt=""></a>
                  
                 </div>
         </li>

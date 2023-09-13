@@ -39,12 +39,111 @@ header{
     text-shadow: 4px 4px 4px rgb(0, 38, 255);
 }
  
+.Colonia {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    background-color:#009e22;
+    color: whitesmoke;
+    font-family: 'Tilt Prism', cursive;
+    text-shadow: 4px 4px 4px rgb(9, 255, 0);
+
+}
+
+.painel-vidro2 {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 30%;
+    background-color: rgba(21, 255, 0, 0.25);
+    border: 3px solid   rgba(21, 255, 0, 0.25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+}
+
+.outtakes {
+    background-color: pink;
+}
+.out {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(82, 0, 102);
+    color: whitesmoke;
+    font-family: 'Tilt Prism', cursive;
+    text-shadow: 4px 4px 4px rgb(27, 0, 102);
+}
+
+.painel-vidro3 {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 30%;
+    background-color: rgba(195, 0, 255, 0.25);
+    border: 3px solid   rgba(195, 0, 255, 0.25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+}
+.Quartoandar {
+    position: fixed;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 16%;
+    width: 100%;
+    background-color:#ff0000;
+    color: rgb(0, 0, 0);
+    font-family: 'Tilt Prism', cursive;
+    text-shadow: 4px 4px 4px rgb(253, 0, 0);
+}
+
+
+
+.painel-vidro4 {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 30%;
+    background-color: rgba(0, 0, 0, 0.25);
+    border: 3px solid   rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+}
+.Quarto-andar {
+    background-color: black;
+    
+}
+.Quarto-andar h2 {
+    color: white;
+}
+video {
+    height: 200px;
+    width: 40%;
+    margin-left: 30%;
+    border: 3px solid   rgba(98, 0, 255, 0.616);
+ 
+}
 .img {
     width: 40%;
     margin-left: 30%;
     border: 3px solid   rgba(17, 0, 255, 0.616);
 }
-
+.img2 {
+    width: 40%;
+    margin-left: 30%;
+    border: 3px solid   rgba(255, 0, 0, 0.616);
+}
+.img3 {
+    width: 40%;
+    margin-left: 30%;
+    border: 3px solid   rgba(52, 0, 87, 0.63);
+}
 footer{
     height: 200px;
     background-color: rgb(46, 111, 231);
@@ -82,7 +181,9 @@ footer{
  
 }
 
-
+h1 {
+    text-align: center;
+}
 h2 {
     margin-left: 30%;
     margin-right: 20%;

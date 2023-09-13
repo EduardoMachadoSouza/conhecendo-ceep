@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="../css/fotos-style.css">
 </head>
 <body>
-<header>
-            <div class="painel-vidro">
+<header class="Colonia">
+            <div class="painel-vidro2">
                 <h1>Conhecendo o Colonia </h1> 
             </div>
     </header>

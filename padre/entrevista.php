@@ -10,15 +10,29 @@
     <header class="padre">
         <div class="painel-vidro2"><h1> Verbo dívino </h1></div>
     </header>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
 </body>
-
+    <img class="tamanho"src="../img/Livro.jpg" alt="">
+    <img class="tamanho"src="../img/Ferro.jpg" alt="">
+    <img class="tamanho"src="../img/tumulo de parede.jpg" alt="">
+    <img class="tamanho"src="../img/MesaFoda.jpg" alt="">
+    <img class="tamanho"src="../img/Chefe  poppe francis.JPG" alt="">
+    <img class="tamanho"src="../img/Maria.jpg" alt="">
+    <img class="tamanho"src="../img/Maria2.jpg" alt="">
+    <img class="tamanho"src="../img/Passaro.jpg" alt="">
 <footer>
         <div class="conteiner-footer-bloco"></div>
             <div class="conteiner-footer-itens">
                 <section class="social">
                     <ul>
-                        <li><a href="https://www.instagram.com/_ceeppg/"><img src="img/ri_instagram-fill.svg" alt="logo Instragram"></a></li>
-                        <li><a href="https://www.facebook.com/ceeppontagrossa"><img src="img/ic_baseline-facebook.svg" alt="logo Facebook"></a></li>
+                        <li><a href="https://instagram.com/conhecendo_ceeppg?igshid=NjIwNzIyMDk2Mg=="><img src="../img/ri_instagram-fill.svg" alt="logo Instragram"></a></li>
+                        <li><a href="https://www.facebook.com/ceeppontagrossa"><img src="../img/mingcute_youtube-fill.svg" alt="logo Facebook"></a></li>
                     </ul>
                 </section>
             </div>
