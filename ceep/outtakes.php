@@ -6,10 +6,10 @@
     <title>Outtakes</title>
     <link rel="stylesheet" href="../css/fotos-style.css">
 </head>
-<body>
-<header>
-            <div class="painel-vidro">
-                <h1>Conhecendo o Colonia </h1> 
+<body class="outtakes">
+<header class="out">
+            <div class="painel-vidro3">
+                <h1>Out takes </h1> 
             </div>
     </header>
     <br>
@@ -18,6 +18,21 @@
     <br>
     <br>
     <br>
+
+    <img class="img3"src="../img/Da like.jpg" alt="">
+    <img class="img3"src="../img/Ferrugí.jpg" alt="">
+    <img class="img3"src="../img/Sus6.jpg" alt="">
+    <img class="img3"src="../img/Homi.jpg" alt="">
+    <img class="img3"src="../img/porão.jpg" alt="">
+    <img class="img3"src="../img/ao mosso.JPG" alt="">
+    <img class="img3"src="../img/Churras2.jpg" alt="">
+    <img class="img3"src="../img/pack_do_pé_da_rapazeada.JPG" alt="">
+    <img class="img3"src="../img/Da like 2.jpg" alt="">
+    <video controls>
+        <source class="video" src="../img/noturna.mp4" type="video/mp4">
+        Seu navegador não suporta o elemento de vídeo.
+    </video>
+    <img class="img3"src="../img/Cabô.jpg" alt="">
 
     <footer>
         <div class="conteiner-footer-bloco"></div>

@@ -18,8 +18,10 @@
     <br>
     <br>
     <br>
+    <br>
+    <br>
     <h2>Praticamente todos conhecemos o nosso colégio, tirando o 4° andar, lá temos a Biblioteca e por fim uma area que quase ninguém conhece.</h2>
-    
+
     <img class="img2"src="../img/Janela sinistra.jpg" alt="">
     <img class="img2"src="../img/entrada sinistra.jpg" alt="">
     <img class="img2"src="../img/Sus5.jpg" alt="">
